@@ -24,7 +24,7 @@ Start JupyterLab, and activate with `Settings > Theme > jupyterlab_whitepaper`.
 
 ### Demo
 
-![](https://github.com/adamvvu/jupyterlab_whitepaper/examples/demo.gif)
+![](https://github.com/adamvvu/jupyterlab_whitepaper/blob/master/examples/demo.gif)
 
 #### Credits
 
