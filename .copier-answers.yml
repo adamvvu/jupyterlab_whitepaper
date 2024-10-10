@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: adamwu1@outlook.com
+author_name: Adam Wu
+has_binder: true
+has_settings: false
+kind: theme
+labextension_name: jupyterlab_whitepaper
+project_short_description: A simple and minimalistic JupyterLab 4 theme for prototyping
+    ideas, research, and data science.
+python_name: jupyterlab_whitepaper
+repository: ''
+test: true
+
